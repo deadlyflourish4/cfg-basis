@@ -1,0 +1,15 @@
+ART (Article): Mạo từ như "the", "a".
+ADJ (Adjective): Tính từ như "big", "small".
+N (Noun): Danh từ như "dog", "cat".
+V (Verb): Động từ như "chased", "saw".
+P (Preposition): Giới từ như "in", "on".
+ADV (Adverb): Trạng từ như "quickly", "slowly".
+PRON (Pronoun): Đại từ như "he", "she", "they".
+NUM (Number): Số như "one", "two".
+POS (Possessive): Chỉ sự sở hữu.
+QUANT (Quantifier): Các từ chỉ số lượng như "many", "few".
+CONJ (Conjunction): Liên từ như "and", "or".
+MOD (Modal verb): Động từ khiếm khuyết như "can", "may".
+AUX (Auxiliary verb): Động từ trợ giúp như "is", "are".
+NEG (Negation): Từ phủ định như "not".
+REL (Relative pronoun): Đại từ quan hệ như "who", "that".
