@@ -1,3 +1,4 @@
+NP -> ART N
 NP -> ART ADJ N
 NP -> ART N PP
 NP -> ART ADJ ADJ N

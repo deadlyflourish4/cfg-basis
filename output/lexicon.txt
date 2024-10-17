@@ -1,0 +1,16 @@
+ART -> the | a | an
+ADJ -> happy | busy | interested | great | negative | positive | new | old
+N -> customer | service | product | call | response | need | time | company
+V -> call | offer | want | need | say | respond | reject | accept
+P -> to | for | in | on | with | about | at
+ADV -> quickly | eagerly | positively | negatively | always | never
+PRON -> I | you | he | she | we | they | it
+NUM -> one | two | three | many | few
+POS -> my | your | his | her | their
+QUANT -> some | any | all | most
+CONJ -> and | or | but | because | although
+MOD -> can | may | must | should
+AUX -> is | are | was | have | do
+NEG -> not | no
+REL -> who | that | which
+DET -> this | that | these | those
